@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SawControllerOverride
+  m_Controller: {fileID: 9100000, guid: ed3a6710930241745836de21b1a1b824, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f6eed6dd9ebf41a45a87dec888860e93, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 90e7ae492b4a4f040adf4aec73a6c8de, type: 2}
